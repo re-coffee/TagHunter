@@ -1,0 +1,12 @@
+D:\Code\TagHunter.Models\bin\Debug\net5.0\TagHunter.Models.deps.json
+D:\Code\TagHunter.Models\bin\Debug\net5.0\TagHunter.Models.dll
+D:\Code\TagHunter.Models\bin\Debug\net5.0\ref\TagHunter.Models.dll
+D:\Code\TagHunter.Models\bin\Debug\net5.0\TagHunter.Models.pdb
+D:\Code\TagHunter.Models\obj\Debug\net5.0\TagHunter.Models.csproj.AssemblyReference.cache
+D:\Code\TagHunter.Models\obj\Debug\net5.0\TagHunter.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\TagHunter.Models\obj\Debug\net5.0\TagHunter.Models.AssemblyInfoInputs.cache
+D:\Code\TagHunter.Models\obj\Debug\net5.0\TagHunter.Models.AssemblyInfo.cs
+D:\Code\TagHunter.Models\obj\Debug\net5.0\TagHunter.Models.csproj.CoreCompileInputs.cache
+D:\Code\TagHunter.Models\obj\Debug\net5.0\TagHunter.Models.dll
+D:\Code\TagHunter.Models\obj\Debug\net5.0\ref\TagHunter.Models.dll
+D:\Code\TagHunter.Models\obj\Debug\net5.0\TagHunter.Models.pdb
